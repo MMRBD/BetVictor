@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BetVictor</string>
+    <string name="fb_share">SHARE IN FACEBOOK</string>
+    <string name="twitter_share">SHARE IN TWITTER</string>
+    <string name="help">HELP</string>
+    <string name="about">ABOUT US</string>
+</resources>
